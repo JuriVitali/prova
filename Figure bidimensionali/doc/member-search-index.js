@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Figure","c":"Cerchio","l":"area()"},{"p":"Figure","c":"Cerchio","l":"Cerchio()","url":"%3Cinit%3E()"},{"p":"Figure","c":"Cerchio","l":"Cerchio(int)","url":"%3Cinit%3E(int)"},{"p":"Figure","c":"Cerchio","l":"getr()"},{"p":"Figure","c":"Cerchio","l":"perimetro()"},{"p":"Figure","c":"Cerchio","l":"pi"},{"p":"Figure","c":"Cerchio","l":"setr(int)"}]
